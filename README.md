@@ -15,9 +15,3 @@ And of course editing or deleting for a reservation is possible as well.
 You may reach to the project video by clicking the link below;
 
 https://youtu.be/i96mvn4MCA4
-
-And repo link below as well;
-
-https://github.com/Keremyardan/Tourism_Agency.git
-
-JDK version : 21.0.1
